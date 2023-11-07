@@ -341,6 +341,7 @@ cybersecurity
 cyclomatic
 cypher
 daemonize
+daemonset
 daemonsets
 darkblue
 dashboard

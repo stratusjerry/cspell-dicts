@@ -10,6 +10,7 @@ add
 additionalItems
 additionalPrinterColumns
 additionalProperties
+addonmanager
 address
 addresses
 addressType
@@ -28,6 +29,7 @@ allowPrivilegeEscalation
 allowVolumeExpansion
 annotations
 anyOf
+apiextensions
 apiGroup
 apiGroups
 apiServerID
@@ -316,6 +318,7 @@ kubeletConfigKey
 kubeletEndpoint
 kubelets
 kubeletVersion
+KubeProxyConfiguration
 kubeProxyVersion
 kubernetes
 labels
@@ -410,6 +413,7 @@ nodeID
 nodeInfo
 nodeName
 nodePort
+nodePorts
 nodePublishSecretRef
 nodeSelector
 nodeSelectorTerms
@@ -467,8 +471,10 @@ periodSeconds
 perNodeHostBits
 persistentVolumeClaim
 persistentVolumeClaimRetentionPolicy
+persistentVolumeClaims
 persistentVolumeName
 persistentVolumeReclaimPolicy
+persistentVolumes
 phase
 photonPersistentDisk
 platform
@@ -648,6 +654,7 @@ startingDeadlineSeconds
 startTime
 startupProbe
 state
+StatefulSet
 status
 statusReplicasPath
 stdin
